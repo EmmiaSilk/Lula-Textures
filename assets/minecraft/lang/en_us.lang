@@ -5,6 +5,7 @@ language.code=en_us
 item.brick.name=Copper Crest
 item.ironNugget.name=Silver Moon
 item.goldNugget.name=Golden Sun
+
 tile.wood.acacia.name=Elven Wood Planks
 tile.woodSlab.acacia.name=Elven Wood Slab
 tile.stairsWoodAcacia.name=Elven Wood Stairs
@@ -16,3 +17,4 @@ tile.redSandStone.chiseled.name=Pillar Basalt Block
 tile.redSandStone.smooth.name=Smooth Basalt
 tile.stoneSlab2.red_sandstone.name=Basalt Brick Slab
 tile.stairsRedSandStone.name=Basalt Brick Stairs
+
