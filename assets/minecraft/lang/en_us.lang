@@ -5,3 +5,6 @@ language.code=en_us
 item.brick.name=Copper Crest
 item.ironNugget.name=Silver Moon
 item.goldNugget.name=Golden Sun
+tile.wood.acacia.name=Elven Wood Planks
+tile.woodSlab.acacia.name=Elven Wood Slab
+tile.stairsWoodAcacia.name=Elven Wood Stairs
