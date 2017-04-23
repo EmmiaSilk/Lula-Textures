@@ -8,3 +8,6 @@ item.goldNugget.name=Golden Sun
 tile.wood.acacia.name=Elven Wood Planks
 tile.woodSlab.acacia.name=Elven Wood Slab
 tile.stairsWoodAcacia.name=Elven Wood Stairs
+tile.acaciaFence.name=Elven Fence
+tile.acaciaFenceGate.name=Elven Fence Gate
+item.doorAcacia.name=Elven Door
